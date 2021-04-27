@@ -1,0 +1,22 @@
+.TitleH1 {
+  color: #3f51b5;
+  text-transform: capitalize;
+  font-style: italic;
+  text-align: center;
+}
+.TitleH2 {
+  color: rgba(63, 81, 181, 0.3);
+  text-transform: uppercase;
+  font-style: italic;
+  text-align: center;
+}
+
+@media print {
+  .TitleH1 {
+    color: #000;
+  }
+  .TitleH2 {
+    color: #000;
+    text-transform: capitalize;
+  }
+}

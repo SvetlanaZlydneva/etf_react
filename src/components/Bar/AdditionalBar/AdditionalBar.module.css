@@ -1,0 +1,15 @@
+.List {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+
+.Link {
+  display: block;
+  color: rgba(63, 81, 181, 0.3);
+  transition: all 0.2s linear;
+}
+
+.Active {
+  color: #3f51b5;
+}

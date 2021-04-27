@@ -1,0 +1,16 @@
+.List {
+  min-width: 200px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Link {
+  display: block;
+  color: #fff;
+  transition: all 0.2s linear;
+}
+
+.Active {
+  color: #3f51b5;
+  transform: translateY(50px);
+}

@@ -1,0 +1,8 @@
+@media screen and (min-width: 768px) {
+  .Wrapper {
+    display: flex;
+  }
+  .Wrapper div {
+    margin-top: 0;
+  }
+}

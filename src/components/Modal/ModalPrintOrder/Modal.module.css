@@ -1,0 +1,9 @@
+.Modal {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+.Fade {
+  background-color: #fff;
+  padding: 20px;
+}

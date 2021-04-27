@@ -1,0 +1,19 @@
+.List {
+  display: flex;
+}
+.List svg {
+  font-size: 22px;
+  fill: #fff;
+}
+.Registered {
+  background: #9e9e9e;
+}
+.Approved {
+  background: #80cbc4;
+}
+.Rejected {
+  background: #ff8a80;
+}
+.Processed {
+  background: #3f51b5;
+}

@@ -1,0 +1,22 @@
+input {
+  border: none;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+p {
+  margin: 0;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style-type: none;
+}
+button {
+  cursor: pointer;
+  outline: none;
+  border: none;
+  background: none;
+}

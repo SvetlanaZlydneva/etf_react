@@ -1,0 +1,16 @@
+.Textarea {
+  width: 100%;
+  margin: 0 auto 20px;
+}
+
+@media screen and (min-width: 768px) {
+  .Textarea {
+    width: 70%;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .Textarea {
+    width: 50%;
+  }
+}

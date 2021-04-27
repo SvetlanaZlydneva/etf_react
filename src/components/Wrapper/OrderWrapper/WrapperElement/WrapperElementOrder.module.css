@@ -1,0 +1,16 @@
+.WrapperElementOrder {
+  width: 100%;
+  margin: 0 auto 20px;
+}
+
+@media screen and (min-width: 768px) {
+  .WrapperElementOrder {
+    width: 50%;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .WrapperElementOrder {
+    width: 30%;
+  }
+}

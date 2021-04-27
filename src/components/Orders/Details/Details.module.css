@@ -1,0 +1,32 @@
+.Total {
+  display: flex;
+  justify-content: flex-end;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin-bottom: 50px;
+}
+.Footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.HeaderWrapper {
+  position: relative;
+  min-width: 50%;
+  border-bottom: 2px solid #666;
+}
+.TopHeaderWrapper {
+  display: flex;
+  justify-content: space-around;
+}
+.Header {
+  width: 30%;
+}
+
+@media print, screen and (min-width: 768px) {
+  /* .Header {
+    bottom: -20px;
+  } */
+}

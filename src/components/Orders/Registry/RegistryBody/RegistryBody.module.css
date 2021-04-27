@@ -1,0 +1,8 @@
+.Item {
+  padding: 5px 0;
+  text-align: left;
+}
+.Item:before {
+  content: '\25AA';
+  padding-right: 5px;
+}

@@ -1,0 +1,13 @@
+.Wrapper {
+  border-bottom: 2px dashed #81c784;
+}
+
+@media screen and (min-width: 768px) {
+  .Wrapper {
+    display: flex;
+    border-bottom: none;
+  }
+  .Wrapper div {
+    margin-top: 0;
+  }
+}

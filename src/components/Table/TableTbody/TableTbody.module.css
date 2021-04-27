@@ -1,0 +1,10 @@
+.Tbody tr td {
+  border: 1px solid #e8e9eb;
+  padding: 5px 10px;
+}
+.Tbody tr:nth-child(2n) {
+  background: #f4f4f4;
+}
+.Tbody tr:hover {
+  background: rgba(63, 81, 181, 0.3);
+}
